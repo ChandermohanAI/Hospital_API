@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XEl84R9e2G73gR8VmnTzidrdaMBAl5Y/5xsiec5sLKSGkMrpYhxCdcBrhwCPR3aA0/p2cR3hfa+6R74rkVsYDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chander.mohan_oncehu\\source\\repos\\Hospital_API\\Hospital_Utility\\Hospital_Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chander.mohan_oncehu\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\chander.mohan_oncehu\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
